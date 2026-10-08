@@ -1,6 +1,6 @@
-# Lógica para Computação 
+# Lógica para Computação
 
-*Código da Semantica para Apresentação* 
+*Código da Semantica para Apresentação*
 
 ### Discentes:
 
@@ -9,7 +9,7 @@
 - Matheus Rodrigues Silva
 - Yuri Kauã Schwartz Melo
 
---------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Contexto
 
@@ -17,9 +17,9 @@ O contexto escolhido deu se pelo motivo de trazer algo diferente de um jogo ou a
 
 ##### **🎥 Filme escolhido:** *A viagem de Chihiro, do Studio Ghibli.*
 
-![1791415644140](image/README/1791415644140.png)
+![1791417979979](image/README/1791417979979.png)
 
----------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Variáveis
 
@@ -37,7 +37,7 @@ O contexto escolhido deu se pelo motivo de trazer algo diferente de um jogo ou a
 
 [({(G -> ¬H) ∧ [F ∨ (C -> D)]} -> E) ∧ A ∧ ¬I] -> B
 
----------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Tecnologias Utilizadas
 
@@ -58,7 +58,7 @@ python3 trabalho_logica.py
 
 Para a situação especifica do contexto do filme, pode-se utilizar este código para análisar os prós e contras de determinadas decisões e acontecimentos importantes para a trajetória da personagem Chihiro.
 
----------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 👨🏻‍💻 Divisão de tarefas:
 
