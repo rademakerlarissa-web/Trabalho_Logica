@@ -62,9 +62,9 @@ Para a situação especifica do contexto do filme, pode-se utilizar este código
 
 ## 👨🏻‍💻 Divisão de tarefas:
 
-| Nome                      | Tarefa                                                      |
-| ------------------------- | ----------------------------------------------------------- |
-| Larissa Rademaker Gabriel | Desenvolvimento do slide, Design, e resolução do contexto |
-| Alessandro dos Santos     | Desafio de programação  e definição do contexto         |
-| Matheus Rodrigues Silva   | Desenvolvimento do slide e resolução do contexto          |
-| Yuri Kauã Schwartz Melo  | Desenvolvimento do Slide                                    |
+| Nome                      | Tarefa                                                       |
+| ------------------------- | ------------------------------------------------------------ |
+| Larissa Rademaker Gabriel | Desenvolvimento do slide, design, e definição do contexto |
+| Alessandro dos Santos     | Desafio de programação  e definição do contexto          |
+| Matheus Rodrigues Silva   | Desenvolvimento do slide e definição do contexto          |
+| Yuri Kauã Schwartz Melo  | Desenvolvimento do Slide e definição do contexto         |
