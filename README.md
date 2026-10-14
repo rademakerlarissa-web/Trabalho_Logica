@@ -11,7 +11,7 @@
 
 #### Links
 
-* *[Slides da apresentação](https://canva.link/projeto-logica-chihiro)*
+* *[Slides da apresentação](https://canva.link/ztp5qpcux5gsaz1)*
 * [Quiz no Google Forms](https://forms.gle/cNr32c16hAcurce66)
 
 ---
