@@ -13,9 +13,9 @@
 
 * *[Slides da apresentação](https://canva.link/ztp5qpcux5gsaz1)*
 * [Quiz no Google Forms](https://forms.gle/cNr32c16hAcurce66)
+* [Tabela Verdade](https://ifcedubr-my.sharepoint.com/:x:/g/personal/larissa_gabriel_estudantes_ifc_edu_br/IQCTplj7-KdhT6lE0NH_ErFuAUcpzG0UXUnYWda5xOFmow0?e=wIzK2E)
 
 ---
-
 
 ## Contexto
 
