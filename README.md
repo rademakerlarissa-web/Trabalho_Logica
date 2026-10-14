@@ -9,7 +9,13 @@
 - Matheus Rodrigues Silva
 - Yuri Kauã Schwartz Melo
 
+#### Links
+
+* *[Slides da apresentação](https://canva.link/projeto-logica-chihiro)*
+* [Quiz no Google Forms](https://forms.gle/cNr32c16hAcurce66)
+
 ---
+
 
 ## Contexto
 
